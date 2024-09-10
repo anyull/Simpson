@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+.cajauno {
+    width: 500px;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+    border: 5px;
+}
+.cajados {
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    background-color: rgb(167, 177, 209);
+    padding: 70px;
+    border: solid 5px blue
+}
+.cajatres {
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    background-color: rgb(167, 177, 209);
+    padding: 10px;
+    border: solid 5px blue
+}
+.cajacuatro {
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    background-color: rgb(167, 177, 209);
+    padding: 30px;
+    border: solid 5px blue
+}
+.pieDePagina {
+    height: 100px;
+    width: 1800px;
+    margin: 0 auto;
+    background-color: rgb(167, 177, 209);
+    padding: 10px;
+    border: solid 5px blue
+}
+    
+
